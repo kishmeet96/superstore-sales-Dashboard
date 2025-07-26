@@ -100,16 +100,16 @@ To analyze the performance of a retail business across key dimensions such as **
 15. **Monthly/Quarterly Trends**: Seasonal spikes in November and Q4 suggest opportunities for holiday marketing boosts.
 
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
-### 📊 Excel Dashboard – Sales & Profit Insights
+## 📊 Excel Dashboard – Sales & Profit Insights
 
 ![Image](https://github.com/user-attachments/assets/c3867b12-4d3d-4c5a-9150-870c0471cdd6)
 
 
-### 📊 Excel Dashboard – Customer, Inventory & Shipping Analysis
+## 📊 Excel Dashboard – Customer, Inventory & Shipping Analysis
 
-(![Image](https://github.com/user-attachments/assets/7fef27d2-d41e-4ac6-9495-84206304ba8c)
+![Image](https://github.com/user-attachments/assets/7fef27d2-d41e-4ac6-9495-84206304ba8c)
 
 
 
