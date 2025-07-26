@@ -105,13 +105,13 @@ To analyze the performance of a retail business across key dimensions such as **
 ### 📊 Excel Dashboard – Sales & Profit Insights
 
 
-![Dashboard Sheet 1](https://github.com/kishmeet96/superstore-sales-Dashboard/blob/main/Screenshot%202025-07-26%20044455.jpg)
+(![Image](https://github.com/user-attachments/assets/7fef27d2-d41e-4ac6-9495-84206304ba8c)
+
 
 
 ### 📊 Excel Dashboard – Customer, Inventory & Shipping Analysis
 
-
-![Dashboard Sheet 2](https://github.com/kishmeet96/superstore-sales-Dashboard/blob/main/Screenshot%202025-07-26%20044535.png)
+![Image](https://github.com/user-attachments/assets/c3867b12-4d3d-4c5a-9150-870c0471cdd6)
 
 
 ## 🔗 How This Helps
