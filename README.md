@@ -3,13 +3,11 @@
 
 This project showcases a complete end-to-end **Retail Sales Analysis** using **SQL and Excel**, built to extract actionable business insights from Superstore data.
 
----
 
 ## 🔍 Objective
 
 To analyze the performance of a retail business across key dimensions such as **Sales**, **Profit**, **Orders**, **Customers**, **Products**, **Shipping**, and **Inventory**, and present the insights in a clean, interactive dashboard.
 
----
 
 ## 🧰 Tools & Technologies Used
 
@@ -19,7 +17,6 @@ To analyze the performance of a retail business across key dimensions such as **
 - **Slicers** – For dynamic filtering (Year / Quarter / Month)  
 - **Data Labels, Conditional Formatting, Trendlines** – To enhance interpretability  
 
----
 
 ## 📦 Dataset
 
@@ -30,7 +27,6 @@ To analyze the performance of a retail business across key dimensions such as **
   - `Products`
   - `Shipping`
 
----
 
 ## 🛠️ Project Workflow
 
@@ -49,7 +45,6 @@ To analyze the performance of a retail business across key dimensions such as **
   - **Shipping & Order Trends**
 - Integrated slicers for time-based filtering (Year, Quarter, Month)
 
----
 
 ## 📈 Key Metrics & Visuals
 
@@ -71,42 +66,53 @@ To analyze the performance of a retail business across key dimensions such as **
 | | Region-wise Profit | Bar Chart |
 | | Segment-wise Profit Share | Column + Trendline |
 
----
 
 ## ✅ Business Insights Extracted
 
 1. **Sales and Profit Contribution**: Technology segment generates the highest profit despite lower order count compared to Office Supplies.
+
 2. **Yearly Growth Trend**: Sales and profit have grown steadily YoY, indicating strong upward business momentum.
+
 3. **Order Volume Trend**: Order count trends align with sales/profit, but show dips during specific quarters (actionable for seasonal planning).
+
 4. **Segment Performance**: Consumer segment accounts for the majority of orders, followed by Corporate.
+
 5. **Customer Distribution**: Unique customers are concentrated in Western and Eastern regions, revealing strong market presence.
+
 6. **Top Customers by Profit**: A few key customers significantly drive profits—critical for targeted relationship management.
+
 7. **High-Value Customers**: Repeat customers from the Consumer and Corporate segments dominate revenue share.
+
 8. **Top Products**: High-performing products with consistent profit margins are revealed—vital for inventory planning.
+
 9. **Low Inventory Products**: Certain products fall below reorder threshold—highlighting restocking priorities.
+
 10. **Discount Leakage**: Office Supplies receive the highest average discount, affecting overall margins.
+
 11. **Shipping Delays**: Standard Class has the longest average delivery time—potential area for optimization.
+
 12. **Shipping Mode Preferences**: Most orders are shipped via Standard Class, followed by Second Class.
+
 13. **Regional Profitability**: The West region contributes the highest profit; South underperforms and needs attention.
+
 14. **Segment-wise Profit Distribution**: Consumer and Corporate segments deliver the bulk of business profits.
+
 15. **Monthly/Quarterly Trends**: Seasonal spikes in November and Q4 suggest opportunities for holiday marketing boosts.
 
----
 
 ## 📷 Dashboard Preview
 
 ### 📊 Excel Dashboard – Sales & Profit Insights
+
 
 ![Dashboard Sheet 1](https://github.com/kishmeet96/superstore-sales-Dashboard/blob/main/Screenshot%202025-07-26%20044455.jpg)
 
 
 ### 📊 Excel Dashboard – Customer, Inventory & Shipping Analysis
 
+
 ![Dashboard Sheet 2](https://github.com/kishmeet96/superstore-sales-Dashboard/blob/main/Screenshot%202025-07-26%20044535.png)
 
-
-
----
 
 ## 🔗 How This Helps
 
